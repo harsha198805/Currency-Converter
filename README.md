@@ -17,7 +17,8 @@ php artisan migrate
 
 php artisan serve
 
-Screen shot folder attached
+Screen shot folder attached in project folder
+
 Page link
 
 Booking calender view page link : http://127.0.0.1:8000/
