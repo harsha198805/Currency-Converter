@@ -10,7 +10,7 @@
 <body>
     <nav class="navbar navbar-dark bg-dark mb-4">
         <div class="container d-flex justify-content-between">
-            <a class="navbar-brand" href="#">Booking System</a>
+            <a class="navbar-brand" href="/">Booking System</a>
             <a href="{{ route('bookings.create') }}" class="btn btn-success">Booking Create</a>
             <a href="{{ route('bookings.calendar') }}" class="btn btn-success">Calendar View</a>
             <a href="{{ route('bookings.index') }}" class="btn btn-success">Table View</a>
